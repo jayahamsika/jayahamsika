@@ -2,7 +2,7 @@
 
 ### 🤖 Aspiring Computer Science Engineer | ML Developer | IoT & Robotics Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Aspiring+AI+%26+Robotics+Engineer;Machine+Learning+Developer;IoT+%26+Drone+Enthusiast)
+![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering)](https://git.io/typing-svg)
 
 ### ⚙️ Tech & Tool Stack
 
